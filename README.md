@@ -1,4 +1,4 @@
 # Project1
-This is my first Git Project.
+This is my first Git Repository.
 <br>
 Author - Aaditya Yadav
